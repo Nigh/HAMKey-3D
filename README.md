@@ -1,4 +1,4 @@
-# HAMKey-3D
+# HAMKey-Lite-3D
 
 3D design for HAMKey-Lite
 
